@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="banner">
  <source media="(prefers-color-scheme: light)" srcset="banner">
