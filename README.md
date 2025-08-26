@@ -4,8 +4,6 @@
  <img alt="Banner" src="logo_text.svg">
 </picture>
 
-# 
-
 ## [Links](https://links.vortygon.space/)
 ## My projects:
 [<kbd> <br> Portfolio <br> </kbd>](https://www.neeucraft.ru/)
