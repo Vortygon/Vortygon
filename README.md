@@ -1,9 +1,11 @@
-# Welcome
+# 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="banner">
- <source media="(prefers-color-scheme: light)" srcset="banner">
- <img alt="Banner" src="banner">
+ <source media="(prefers-color-scheme: dark)" srcset="logo_text_white.svg">
+ <source media="(prefers-color-scheme: light)" srcset="logo_text.svg">
+ <img alt="Banner" src="logo_text.svg">
 </picture>
+
+# 
 
 ## [Links](https://links.vortygon.space/)
 ## My projects:
