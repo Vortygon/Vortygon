@@ -14,6 +14,7 @@
 
 <div float="left" align="center">
  <img alt="JavaScript" title="JavaScript" src="https://svgl.app/library/javascript.svg" height="56px" width="56px" hspace="4" align="center">
+ <img alt="TypeScript" title="TypeScript" src="https://svgl.app/library/typescript.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Kotlin" title="Kotlin" src="https://svgl.app/library/kotlin.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="HTML" title="HTML" src="https://svgl.app/library/html5.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="CSS" title="CSS" src="https://svgl.app/library/css_old.svg" height="56px" width="56px" hspace="4" align="center">
