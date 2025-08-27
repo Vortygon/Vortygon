@@ -21,6 +21,7 @@
  <img alt="PostgreSQL" title="PostgreSQL" src="https://svgl.app/library/postgresql.svg" height="56px" width="56px" hspace="6" align="center">
 </div>
 
+
 ## Honorable mentions
 
 <div float="left" align="center">
@@ -32,6 +33,9 @@
  <img alt="Unreal Engine" title="Unreal Engine" src="https://svgl.app/library/unreal_engine_dark.svg" height="56px" width="56px" hspace="6" align="center">
  <img alt="Unity" title="Unity" src="https://svgl.app/library/unity_dark.svg" height="56px" width="56px" hspace="6" align="center">
  <img alt="Godot" title="Godot" src="https://svgl.app/library/godot_engine.svg" height="56px" width="56px" hspace="6" align="center">
+ <img alt="VS Code" title="VS Code" src="https://svgl.app/library/vscode.svg" height="56px" width="56px" hspace="6" align="center">
+ <img alt="Visual Studio" title="Visual Studio" src="https://svgl.app/library/visual-studio.svg" height="56px" width="56px" hspace="6" align="center">
+ <img alt="Cursor" title="Cursor" src="https://svgl.app/library/cursor_dark.svg" height="56px" width="56px" hspace="6" align="center">
 </div>
 
 
@@ -53,8 +57,12 @@
  <img alt="ReactRouter" title="ReactRouter" src="https://svgl.app/library/reactrouter.svg" height="56px" width="56px" hspace="6" align="center">
  <img alt="Ollama" title="Ollama" src="https://svgl.app/library/ollama_dark.svg" height="56px" width="56px" hspace="6" align="center">
  -->
+ <img alt="Supabase" title="Supabase" src="https://svgl.app/library/supabase.svg" height="56px" width="56px" hspace="6" align="center">
+ <img alt="Flutter" title="Flutter" src="https://svgl.app/library/flutter.svg" height="56px" width="56px" hspace="6" align="center">
+ <img alt="Tauri" title="Tauri" src="https://svgl.app/library/tauri.svg" height="56px" width="56px" hspace="6" align="center">
  
 </div>
+
 
 ## Non-programming skills
 
@@ -63,6 +71,7 @@
  <img alt="Adobe Illustrator" title="Adobe Illustrator" src="https://svgl.app/library/illustrator.svg" height="56px" width="56px" hspace="6" align="center">
  <img alt="Blender" title="Blender" src="https://svgl.app/library/blender.svg" height="56px" width="56px" hspace="6" align="center">
 </div>
+
 
 ## Learning
 
