@@ -58,8 +58,8 @@
 ## Learning
 
 <div float="left" align="center">
- <img alt="Next.js" title="Next.js" src="https://svgl.app/library/nextjs_icon_dark.svg" height="56px" width="56px" hspace="4" align="center"
- <img alt="React" title="React" src="https://svgl.app/library/react_light.svg" height="56px" width="56px" hspace="4" align="center"
+ <img alt="Next.js" title="Next.js" src="https://svgl.app/library/nextjs_icon_dark.svg" height="56px" width="56px" hspace="4" align="center">
+ <img alt="React" title="React" src="https://svgl.app/library/react_light.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Tailwind CSS" title="Tailwind CSS" src="https://svgl.app/library/tailwindcss.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Vercel" title="Vercel" src="https://svgl.app/library/vercel_dark.svg" height="48px" width="56px" hspace="4" align="center">
  <img alt="Netlify" title="Netlify" src="https://svgl.app/library/netlify.svg" height="56px" width="56px" hspace="4" align="center">
