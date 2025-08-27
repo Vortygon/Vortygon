@@ -46,6 +46,7 @@
  <img alt="Android Studio" title="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Android_Studio_Logo_2024.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Ubuntu" title="Cursor" src="https://svgl.app/library/ubuntu.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Arch Linux" title="Arch Linux" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" height="56px" width="56px" hspace="4" align="center">
+ <img alt="R" title="R" src="https://svgl.app/library/r_dark.svg" height="56px" width="56px" hspace="4" align="center">
 
  <!-- For future
  <img alt="Unreal Engine" title="Unreal Engine" src="https://svgl.app/library/unreal_engine_dark.svg" height="56px" width="56px" hspace="4" align="center">
