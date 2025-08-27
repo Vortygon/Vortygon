@@ -37,7 +37,7 @@
  <img alt="C++" title="C++" src="https://svgl.app/library/c-plusplus.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="C#" title="C#" src="https://svgl.app/library/csharp.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Express.js" title="Express.js" src="https://svgl.app/library/expressjs_dark.svg" height="56px" width="56px" hspace="4" align="center">
- <img alt="HTMX" title="HTMX" src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/htmx.dark.svg" object="cover" width="62px" hspace="0" align="center">
+ <img alt="HTMX" title="HTMX" src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/htmx.dark.svg" width="72px" height="56px" hspace="-4" align="center">
  <img alt="Unity" title="Unity" src="https://svgl.app/library/unity_dark.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Godot" title="Godot" src="https://svgl.app/library/godot_engine.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Visual Studio" title="Visual Studio" src="https://svgl.app/library/visual-studio.svg" height="56px" width="56px" hspace="4" align="center">
@@ -66,7 +66,8 @@
  <img alt="Cloudflare" title="Cloudflare" src="https://svgl.app/library/cloudflare.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Rust" title="Rust" src="https://svgl.app/library/rust_dark.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Flutter" title="Flutter" src="https://svgl.app/library/flutter.svg" height="48px" oject="cover" hspace="4" align="center">
- <img alt="Go" title="Go" src="https://svgl.app/library/golang_dark.svg" object="cover" width="62px" hspace="0"  align="center">
+ <img alt="Go" title="Go" src="https://svgl.app/library/golang_dark.svg" width="62px" hspace="0"  align="center">
+ <img alt="FastAPI" title="FastAPI" src="https://svgl.app/library/fastapi.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Cursor" title="Cursor" src="https://svgl.app/library/cursor_dark.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Docker" title="Doscker" src="https://svgl.app/library/docker.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="NixOS" title="NixOS" src="https://icon.icepanel.io/Technology/svg/NixOS.svg" height="56px" width="56px" hspace="4" align="center">
