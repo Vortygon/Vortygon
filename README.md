@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="logo_text_white.svg" height="128px" align="center">
  <source media="(prefers-color-scheme: light)" srcset="logo_text.svg" height="128px" align="center">
- <img alt="Banner" src="logo_text.svg" height="128px" align="center">
+ <img alt="Banner" src="logo_text.svg" height="96px" align="center">
 </picture>
 
 
