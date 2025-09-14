@@ -71,6 +71,7 @@
  <img alt="FastAPI" title="FastAPI" src="https://svgl.app/library/fastapi.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Cursor" title="Cursor" src="https://svgl.app/library/cursor_dark.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Docker" title="Docker" src="https://svgl.app/library/docker.svg" height="56px" width="56px" hspace="4" align="center">
+ <img alt="GitLab" title="GitLab" src="https://svgl.app/library/gitlab.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="NixOS" title="NixOS" src="https://icon.icepanel.io/Technology/svg/NixOS.svg" height="56px" width="56px" hspace="4" align="center">
  
  <!-- For future
