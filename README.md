@@ -21,7 +21,7 @@
  <img alt="Markdown" title="Markdown" src="https://svgl.app/library/markdown-dark.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Git" title="Git" src="https://svgl.app/library/git.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="GitHub" title="GitHub" src="https://svgl.app/library/github_dark.svg" height="56px" width="56px" hspace="4" align="center">
- <img alt="PostgreSQL" title="PostgreSQL" src="https://svgl.app/library/postgresql.svg" height="56px" width="56px" hspace="4" align="center">
+ <!-- <img alt="PostgreSQL" title="PostgreSQL" src="https://svgl.app/library/postgresql.svg" height="56px" width="56px" hspace="4" align="center"> -->
  <img alt="VS Code" title="VS Code" src="https://svgl.app/library/vscode.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Google Colab" title="Google Colab" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png" height="56px" width="56px" hspace="4" align="center">
  
@@ -46,7 +46,7 @@
  <img alt="Android Studio" title="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Android_Studio_Logo_2024.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Ubuntu" title="Cursor" src="https://svgl.app/library/ubuntu.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Arch Linux" title="Arch Linux" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" height="56px" width="56px" hspace="4" align="center">
- <img alt="R" title="R" src="https://svgl.app/library/r_dark.svg" height="56px" width="56px" hspace="4" align="center">
+ <!-- <img alt="R" title="R" src="https://svgl.app/library/r_dark.svg" height="56px" width="56px" hspace="4" align="center"> -->
 
  <!-- For future
  <img alt="Unreal Engine" title="Unreal Engine" src="https://svgl.app/library/unreal_engine_dark.svg" height="56px" width="56px" hspace="4" align="center">
@@ -68,11 +68,11 @@
  <img alt="Rust" title="Rust" src="https://svgl.app/library/rust_dark.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Flutter" title="Flutter" src="https://svgl.app/library/flutter.svg" height="48px" oject="cover" hspace="4" align="center">
  <img alt="Go" title="Go" src="https://svgl.app/library/golang_dark.svg" width="62px" hspace="0"  align="center">
- <img alt="FastAPI" title="FastAPI" src="https://svgl.app/library/fastapi.svg" height="56px" width="56px" hspace="4" align="center">
- <img alt="Cursor" title="Cursor" src="https://svgl.app/library/cursor_dark.svg" height="56px" width="56px" hspace="4" align="center">
+ <!-- <img alt="FastAPI" title="FastAPI" src="https://svgl.app/library/fastapi.svg" height="56px" width="56px" hspace="4" align="center"> -->
+ <!-- <img alt="Cursor" title="Cursor" src="https://svgl.app/library/cursor_dark.svg" height="56px" width="56px" hspace="4" align="center"> -->
  <img alt="Docker" title="Docker" src="https://svgl.app/library/docker.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="GitLab" title="GitLab" src="https://svgl.app/library/gitlab.svg" height="56px" width="56px" hspace="4" align="center">
- <img alt="NixOS" title="NixOS" src="https://icon.icepanel.io/Technology/svg/NixOS.svg" height="56px" width="56px" hspace="4" align="center">
+ <!-- <img alt="NixOS" title="NixOS" src="https://icon.icepanel.io/Technology/svg/NixOS.svg" height="56px" width="56px" hspace="4" align="center"> -->
  
  <!-- For future
  <img alt="TanStack" title="TanStack" src="https://svgl.app/library/tanstack.svg" height="56px" width="56px" hspace="4" align="center">
