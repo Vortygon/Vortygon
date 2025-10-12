@@ -8,7 +8,7 @@
 
 
 <!-- ## [Links](https://links.vortygon.space/) -->
-<img alt="Links" title="Links" src="git_links.png" height="128px" width="128px" align="center">
+<img alt="Links" title="Links" src="git_links.png" height="114px" width="114px" align="center">
 
 
 ## Languages / Skills
