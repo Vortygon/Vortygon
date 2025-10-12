@@ -7,7 +7,8 @@
 </div>
 
 
-## [Links](https://links.vortygon.space/)
+<!-- ## [Links](https://links.vortygon.space/) -->
+<img alt="Links" title="Links" src="git_links.png" height="128px" width="128px" hspace="4" align="center">
 
 
 ## Languages / Skills
