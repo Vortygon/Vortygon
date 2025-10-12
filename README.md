@@ -8,7 +8,8 @@
 
 
 <!-- ## [Links](https://links.vortygon.space/) -->
-<a href="https://links.vortygon.space/" target="_blank"><img alt="Links" title="Links" src="git_links_v3.png" height="103px" width="103px" hspace="15" align="center"></a>
+<a href="https://links.vortygon.space/" target="_blank"><img alt="Links" title="Links" src="git_links.png" height="103px" hspace="15" align="center"></a>
+<a href="https://vortygon.space/" target="_blank"><img alt="Portfolio" title="Portfolio" src="git_portfolio.png" height="103px" hspace="0" align="center"></a>
 
 
 ## Languages / Skills
