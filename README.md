@@ -1,15 +1,15 @@
 <div align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo_text_white.svg" height="96px" align="center">
-  <source media="(prefers-color-scheme: light)" srcset="logo_text.svg" height="96px" align="center">
-  <img alt="Banner" src="logo_text.svg" height="96px" align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="img/logos/logo_text_white.svg" height="96px" align="center">
+  <source media="(prefers-color-scheme: light)" srcset="img/logos/logo_text_black.svg" height="96px" align="center">
+  <img alt="Banner" src="img/logos/logo_text_black.svg" height="96px" align="center">
  </picture>
 </div>
 
 
 <!-- ## [Links](https://links.vortygon.space/) -->
-<a href="https://links.vortygon.space/" target="_blank"><img alt="Links" title="Links" src="git_links.png" height="103px" hspace="15" align="center"></a>
-<a href="https://vortygon.space/" target="_blank"><img alt="Portfolio" title="Portfolio" src="git_portfolio.png" height="103px" hspace="0" align="center"></a>
+<a href="https://links.vortygon.space/" target="_blank"><img alt="Links" title="Links" src="img/buttons/git_links.png" height="103px" hspace="15" align="center"></a>
+<a href="https://vortygon.space/" target="_blank"><img alt="Portfolio" title="Portfolio" src="img/buttons/git_portfolio.png" height="103px" hspace="0" align="center"></a>
 
 
 ## Languages / Skills
