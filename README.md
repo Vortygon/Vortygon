@@ -9,7 +9,7 @@
 
 <!-- ## [Links](https://links.vortygon.space/) -->
 <a href="https://links.vortygon.space/" target="_blank"><img alt="Links" title="Links" src="img/buttons/git_links.png" height="103px" hspace="15" align="center"></a>
-<a href="https://vortygon.space/" target="_blank"><img alt="Portfolio" title="Portfolio" src="img/buttons/git_portfolio.png" height="103px" hspace="0" align="center"></a>
+<!-- <a href="https://vortygon.space/" target="_blank"><img alt="Portfolio" title="Portfolio" src="img/buttons/git_portfolio.png" height="103px" hspace="0" align="center"></a> -->
 
 
 ## Languages / Skills
