@@ -10,7 +10,7 @@
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://links.vortygon.space/" target="_blank"><img alt="Links" title="Links" src="img/buttons/git_links.png" height="103px"></a>
-  <a href="https://vortygon.space/" target="_blank"><img alt="Portfolio" title="Portfolio" src="img/buttons/git_portfolio.png" height="103px"></a>
+  <!-- <a href="https://vortygon.space/" target="_blank"><img alt="Portfolio" title="Portfolio" src="img/buttons/git_portfolio.png" height="103px"></a> -->
   <!-- <a href="" target="_blank"><img alt="" title="" src="img/buttons/git_folders.png" height="103px"></a> -->
 </div>
 
@@ -109,6 +109,7 @@
  <img alt="Figma" title="Figma" src="https://svgl.app/library/figma.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="Graphite" title="Graphite" src="https://static.graphite.rs/logos/graphite-logo-color.svg" height="56px" width="56px" hspace="4" align="center">
  <img alt="DaVinci Resolve" title="DaVinci Resolve" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" height="56px" width="56px" hspace="4" align="center">
+ <img alt="Affinity" title="Affinity" src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/affinity-logo-icon-hd.png" height="56px" width="56px" hspace="4" align="center">
 
  <!-- For future
  -->
